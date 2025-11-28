@@ -1,0 +1,240 @@
+Build a complete CRM system called “Slot Buying Panel CRM” for my brand-lending company.
+The CRM must have two roles: ADMIN and SLOT BUYER.
+Include the following modules and features:
+
+1. USER ROLES
+ADMIN
+
+Create, edit, disable slot buyers
+
+Approve slot applications
+
+Assign city/state exclusivity
+
+View all buyer activities
+
+Manage product pricing
+
+Manage commissions
+
+Upload product catalogue
+
+Track payments
+
+Send notifications to buyers
+
+SLOT BUYER
+
+Apply for slot
+
+View assigned slot details
+
+View product pricing
+
+Place orders
+
+Track order status
+
+Manage retailers onboarded
+
+View monthly targets
+
+Chat with support
+
+View commission & incentives
+
+Update basic profile
+
+2. SLOT MANAGEMENT
+
+For each slot add:
+
+Slot ID
+
+Buyer Name
+
+Territory (City, District, State)
+
+Slot Fee Paid (Yes/No)
+
+Exclusivity Validity
+
+Product Categories assigned
+
+Minimum monthly order volume
+
+Slot documents (agreement, KYC)
+
+3. PRODUCT & PRICING MODULE
+
+Add/edit product
+
+Manufacturing cost
+
+Distributor price
+
+MRP
+
+Margin calculator
+
+MOQ per category
+
+Auto-update pricing for buyers
+
+4. ORDER MANAGEMENT
+Slot Buyers Can:
+
+Place new order
+
+Select product + quantity
+
+See real-time inventory (optional)
+
+Track order status
+
+Download invoices
+
+Download product catalogue
+
+Admin Can:
+
+See all orders
+
+Approve / reject
+
+Update shipping status
+
+Upload invoice
+
+Update payment status
+
+5. PAYMENT & COMMISSION PANEL
+Admin:
+
+Add commission structures
+
+Update payment received
+
+Auto-calc commission on each order
+
+Slot Buyer:
+
+Track commission earned
+
+Track slot fee payment
+
+Track outstanding balance
+
+6. RETAILER MANAGEMENT
+
+Slot Buyer Panel:
+
+Add new retailer
+
+Track retailer orders
+
+Add order notes
+
+Add location + KYC
+
+Set follow-up reminders
+
+Admin Panel:
+
+See all retailers under each distributor
+
+See sales performance per retailer
+
+7. SUPPORT & COMMUNICATION
+
+Chat between admin & slot buyer
+
+Ticket system for issues
+
+Push notifications:
+
+New product added
+
+Order approved
+
+Payment reminder
+
+Target achievement alerts
+
+8. ANALYTICS DASHBOARD
+Admin Dashboard:
+
+Total slots sold
+
+Active/inactive buyers
+
+Monthly revenue from slots
+
+Total orders
+
+Volume per product category
+
+City-wise performance
+
+Slot Buyer Dashboard:
+
+Monthly orders
+
+Targets vs achieved
+
+Retailers added
+
+Income earned
+
+Best-selling products
+
+9. ACCESS LEVELS
+
+Admin: full access
+
+Slot Buyer: restricted to own slot
+
+Ensure role-based access control (RBAC)
+
+10. UI REQUIREMENTS
+
+Clean modern UI
+
+Blue & off-white theme
+
+Mobile-friendly
+
+Sidebar navigation
+
+Separate dashboards for Admin and Buyer
+
+Easy-to-read tables
+
+Graphs for analytics
+
+11. AUTOMATION
+
+Auto-confirm slot on payment
+
+Auto-assign onboarding documents
+
+Auto-notify when buyer hits 80% of monthly target
+
+Auto-calc commission on order approval
+
+Auto-generate agreement PDF
+
+12. OPTIONAL EXTRAS
+
+Add if possible:
+
+E-signature for agreement
+
+WhatsApp integration
+
+Payment gateway for slot fee
+
+QR code for retailer onboarding
+
+Build the entire CRM with database tables, relationships, UI screens and workflows exactly as described.
+Make it professional, scalable, and ready for actual business use.
