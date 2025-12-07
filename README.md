@@ -206,14 +206,3 @@ Pull requests are welcome!
 For major changes, open an issue first to discuss your ideas.
 
 ---
-
-## 📜 License
-
-This project is licensed under **MIT License**.
-
----
-
-## 👤 Author
-
-Your Name  
-GitHub: https://github.com/YOURUSERNAME
