@@ -191,14 +191,6 @@ npm test
 
 ---
 
-## 📸 Screenshots (Optional)
-
-```
-![Dashboard](./screenshots/dashboard.png)
-![Admin Panel](./screenshots/admin.png)
-```
-
----
 
 ## 🤝 Contributing
 
